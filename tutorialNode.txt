@@ -1,0 +1,46 @@
+Módulos:
+
+1) Nativos (core)
+2) Autorais (você cria seu módulo)
+3) Externos (repositórios)
+   npm (gerenciador de pacotes Node)
+
+
+____________________________
+Arrow function
+
+function(){}
+
+() => {}
+
+____________________________
+Nuvem -> Datacenter
+AWS
+Azure
+Google
+
+____________________________
+Comandos básicos de terminal:
+//Limpar a tela
+<ctrl><L>
+cls
+clear
+
+//listar o conteúdo da pasta
+ls
+dir
+
+//mudar de diretório
+cd
+
+//Path
+./ Mesmo nível
+../ Voltar 1 nível
+../../ Voltar 2 níveis até a raiz
+
+
+
+
+
+
+
